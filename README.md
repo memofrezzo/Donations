@@ -1,2 +1,2 @@
 # Donations
-Solo una página de donaciones que por algún motivo solo me manda el readme y no el html
+Just a link to an invitation to receive financial aid in the form of donations by cvu transfer
